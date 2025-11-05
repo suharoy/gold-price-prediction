@@ -12,7 +12,7 @@ All results, figures, and metrics are reproducible using the Jupyter Notebook pr
 ---
 
 ## 🧾 Dataset
-**Source:** [Kaggle – Gold Price (2013–2023)](https://www.kaggle.com/datasets)  
+**Source:** [Kaggle – Gold Price (2013–2023)]([https://www.kaggle.com/datasets](https://www.kaggle.com/datasets/farzadnekouei/gold-price-10-years-20132023))  
 **Records:** 3,634 daily observations  
 **Fields:**
 - `Date`: Timestamp of observation  
